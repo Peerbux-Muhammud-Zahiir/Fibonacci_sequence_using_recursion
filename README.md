@@ -1,8 +1,8 @@
 # Fibonacci_sequence_using_recursion
 <br>
-## Author
+<h3>Author</h3>
 <br>
-Zahiir Peerbux
+*Zahiir Peerbux*
 <br>
 Description:
 <br>
