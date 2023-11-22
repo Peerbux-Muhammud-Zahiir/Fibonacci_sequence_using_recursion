@@ -2,7 +2,7 @@
 <br>
 <h3>Author</h3>
 <br>
-*Zahiir Peerbux*
+<b>Zahiir Peerbux</b>
 <br>
 Description:
 <br>
